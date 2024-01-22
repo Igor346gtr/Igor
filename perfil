@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="conteudo">
+
+        <div class="foto">
+            <img src="foto.jpg" alt="perfil">
+        </div>
+
+        <div class="nome">
+            <h2>Igor Guimarães</h2>
+        </div>
+
+        <div class="local">
+            <h3>São Paulo - SP, Brasil</h3>
+        </div>
+
+        <div class="apresentacao">
+            <p>"Desenvolvedor Front-End em busca de oportunidades."</p>
+        </div>
+
+        <div id="botoes">
+            <article>
+                <a href="https://www.linkedin.com/in/igor-guimar%C3%A3es-a9a52b229/" target="_blank">Linkedin</a>
+            </article>
+            <article>
+                <a href="" target="_blank">GitHub</a>
+            </article>
+            <article>
+                <a href="https://www.instagram.com/__igordev_/" target="_blank">Instagram</a>
+            </article>
+            <article>
+                <a href="https://web.facebook.com/igor.guimaraes.397/" target="_blank">Facebook</a>
+            </article>
+
+        </div>
+
+
+    </div>
+
+
+
+
+</body>
+
+</html>
